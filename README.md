@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hakii Fang
+- 👋 Hi, I’m @Hakim Fang
 - 👀 I’m interested in Data Analysis, Machine Learning & Deep Learning.
 - 🌱 I’m currently learning LSTM applied to Quantitative Investment.
 - 💞️ I’m looking to collaborate on [A Survey of Quantitative Investment Based on LSTM](https://github.com/XuejiFang/EconomicLab.git).
