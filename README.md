@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hakim Fang from Shanghai University.
+- 👋 Hi, I’m [@Hakim Fang](https://xuejifang.github.io/) from Shanghai University.
 - 👀 I’m interested in Generative models, such as DMs.
 - 🌱 I’m currently learning AIGC techs on text-to-video.
 - 📫 How to reach me Hakii.Fang@gmail.com
