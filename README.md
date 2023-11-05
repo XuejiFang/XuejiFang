@@ -1,7 +1,7 @@
-- 👋 Hi, I’m [@Hakim Fang](https://xuejifang.github.io/) from Shanghai University and been admitted to Ph.D. program of Zhejiang University & Westlake University.
-- 👀 I’m interested in Real Image Editing based on Diffusion Models and its extension on Video Editing.
-- 🌱 I’m currently learning Natural Language Processing as a part Multimodal.
-- 📫 How to reach me Hakii.Fang@gmail.com
+- 👋 Hi, I’m [@Hakim Fang](https://xuejifang.github.io/) from Shanghai University, admitted to CS Ph.D. joint program of Zhejiang University & Westlake University.
+- 👀 I’m interested in Generative Models, especially Diffusion Models.
+- 🌱 I’m currently working on Video Generation Models based on Diffusion Models.
+- 📫 How to reach me fangxueji@westlake.edu.cn
 
 **Publication**
 1. J. Yang, **X. Fang** and Q. Pei, "Relationship between the Difficulty of Words and its Distribution of Numbers of Tries in Wordle," 2023 4th International Conference on Electronic Communication and Artificial Intelligence (ICECAI), Guangzhou, China, 2023, pp. 137-141, doi: 10.1109/ICECAI58670.2023.10176549.
