@@ -1,9 +1,10 @@
-- 👋 Hi, I’m [@Hakim Fang](https://xuejifang.github.io/) from Shanghai University, admitted to CS Ph.D. joint program of Zhejiang University & Westlake University.
+- 👋 Hi, I’m [@Hakim Fang](https://xuejifang.github.io/), joint CS Ph.D. student at Zhejiang University & Westlake University.
 - 👀 I’m interested in Generative Models, especially Diffusion Models.
-- 🌱 I’m currently working on Video Generation Models based on Diffusion Models.
-- 📫 How to reach me fangxueji@westlake.edu.cn
+- 🌱 I’m currently working on Large Video Generation Model.
+- 📫 How to reach me fangxueji@zju.edu.cn
 
 **Publication**
+1. Liyuan Ma, **Xueji Fang**, Guo-jun Qi, "{Equilibrated Diffusion: Frequency-aware Textual Embedding for Equilibrated Image Customization", 2024 32nd ACM Multimedia (ACM MM) **Oral**, Melbourne, Australia, 2024
 1. J. Yang, **X. Fang** and Q. Pei, "Relationship between the Difficulty of Words and its Distribution of Numbers of Tries in Wordle," 2023 4th International Conference on Electronic Communication and Artificial Intelligence (ICECAI), Guangzhou, China, 2023, pp. 137-141, doi: 10.1109/ICECAI58670.2023.10176549.
 2. **X. Fang**, "Robust Image Classification with Grayscale Sequence: A VGG-ML Fusion Model for X-Ray Pneumonia Images," 2023 8th International Conference on Signal and Image Processing (ICSIP), Wuxi, China, 2023, pp. 350-354, doi: 10.1109/ICSIP57908.2023.10270988.
 
