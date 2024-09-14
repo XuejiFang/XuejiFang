@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@Hakim Fang](https://xuejifang.github.io/), joint CS Ph.D. student at Zhejiang University & Westlake University.
-- 👀 I’m interested in Generative Models, especially Diffusion Models.
+- 👀 I’m interested in Generative Models, like Diffusion Models and Flow Models.
 - 🌱 I’m currently working on Large Video Generation Model.
 - 📫 How to reach me fangxueji@zju.edu.cn
 
